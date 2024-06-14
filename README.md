@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">A passionate Mechatronics Engineer</h3>
 
-- 🔭 I’m currently working on **Seat Heater Control System**
+- 🔭 I’m currently working on **Seat Heater Control System using FreeRTOS**
 
 - 📫 How to reach me **mostafarefaat456@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/10NOsGHVk6aHtPq16VojakHw3n5MRuV19/view?usp=sharing](https://drive.google.com/file/d/10NOsGHVk6aHtPq16VojakHw3n5MRuV19/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-refaat-geady-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-refaat-geady-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
