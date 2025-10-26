@@ -4,7 +4,6 @@
 - 🧪 Skilled in **Manual Testing**, **Automation (Selenium, Appium, Java)**, and **API Testing**
 - 🔄 Experienced in **Agile Methodologies**, **Defect Management**, and **Data Migration Testing**
 - 📫 Reach me at **mostafarefaat456@gmail.com**
-- 💬 Open to freelance and collaboration opportunities in **QA & Test Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
