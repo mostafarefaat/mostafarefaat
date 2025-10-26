@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">ISTQB® Certified Software Tester | Web & Mobile Automation (Selenium, Appium, Java)</h3>
 
-- 💼 Currently working as **Associate Software Tester @ PwC ETIC**
-- 🎓 Completed **PwC ETIC Graduate Program** in Software Testing & Automation  
 - 🧪 Skilled in **Manual Testing**, **Automation (Selenium, Appium, Java)**, and **API Testing**
 - 🔄 Experienced in **Agile Methodologies**, **Defect Management**, and **Data Migration Testing**
 - 📫 Reach me at **mostafarefaat456@gmail.com**
